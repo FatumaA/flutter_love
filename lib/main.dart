@@ -4,9 +4,9 @@ import 'package:flutter/material.dart';
 //   runApp(flutter_love());
 // }
 
-void main() => runApp(flutter_love());
+void main() => runApp(FlutterLove());
 
-class flutter_love extends StatelessWidget {
+class FlutterLove extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
