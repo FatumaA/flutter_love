@@ -18,8 +18,8 @@ class _FlutterLoveState extends State<FlutterLove> {
     {
       'quesText': 'What is your fav color?',
       'answers': [
-        {'text': 'Black', 'score': 10},
-        {'text': 'Red', 'score': 7},
+        {'text': 'Black', 'score': 9},
+        {'text': 'Red', 'score': 4},
         {'text': 'Green', 'score': 3},
         {'text': 'White', 'score': 5}
       ],
@@ -30,16 +30,16 @@ class _FlutterLoveState extends State<FlutterLove> {
         {'text': 'Rabbit', 'score': 4},
         {'text': 'Dove', 'score': 2},
         {'text': 'Horse', 'score': 5},
-        {'text': 'Dolphin', 'score': 7}
+        {'text': 'Dolphin', 'score': 1}
       ],
     },
     {
       'quesText': 'Who is your fav youtube instructor?',
       'answers': [
         {'text': 'Max', 'score': 3},
-        {'text': 'Gary', 'score': 9},
+        {'text': 'Gary', 'score': 8},
         {'text': 'Brad', 'score': 7},
-        {'text': 'Ed', 'score': 10}
+        {'text': 'Ed', 'score': 6}
       ],
     },
   ];
