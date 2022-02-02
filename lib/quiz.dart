@@ -8,10 +8,10 @@ class Quiz extends StatelessWidget {
   final Function answerQues;
   final int questionIndex;
 
-  Quiz({
-      @required this.questions,
-      @required this.answerQues,
-      @required this.questionIndex
+  const Quiz({
+      this.questions,
+      this.answerQues,
+      this.questionIndex
     });
 
   @override
